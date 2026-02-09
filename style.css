@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(7, 175, 197);
+    /* background-image: url(black.jpg); */
+    background-size: 120px;
+    background-position: 17cm;
+}
+
+h1{
+    background-color: blueviolet;
+    color: rgb(19, 164, 16);
+}
+
+p{
+    color: rgb(7, 13, 1);
+    background-color: aquamarine;
+}
+
+#paragraph{
+    background-color: rgb(209, 228, 6);
+}
+
+#heading{
+    background-color: blue;
+}
+
+.headingstyle{
+    color:darkkhaki;
+    background-color: coral;
+}
+
+/* hello */
+
+div{
+    background-color: blueviolet;
+    opacity: 60%;
+}
+
+.dotted{
+    border-style: dotted;
+    width: 200px;
+
+}
+
+#solid{
+    border-style: solid;
+    width: 200px;
+}
+#double{
+    border-style: double;
+    width: 200px;
+}
+
+/* div */
+
+#margin{  
+    border: solid;
+    margin-top: 100px;
+    margin-bottom: 500px;
+    margin-right: 50px;
+    margin-right: 50px;
+}
+
+#padding1{
+    padding-left:500px ;
+    padding-bottom:50px ;
+    padding-right:100px ;
+    padding-top:100px ;
+}
+
+#boxmodels{
+    background-color: gray;
+    border:20px solid green;
+    opacity: 50%;
+    width: 400px;
+    margin: 200px;
+    padding: 20px;
+}
+
+#align{
+    text-align: justify;
+    line-height: 40px;
+    letter-spacing: 8px;
+}
